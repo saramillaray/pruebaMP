@@ -1,12 +1,24 @@
 header{
-    background-image: url('../img/nahuelbuta.jpg');
+    background-image: url('../img/ven.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: left;
     padding-bottom: 20rem;
+   
     
     
     }
+.nav-item{
+
+    font-size: 20px;
+}
+
+.navbar-brand{
+
+font-size: 30px;
+}
+
+
 
 
     .titulomistrabajos{
@@ -15,8 +27,30 @@ header{
         padding-bottom: 40px;
     }
 
-    body*{
+    body {
         margin: 0;
         padding: 0;
+        font-family: 'Oswald', sans-serif;
             
             }
+
+            #footer a{
+
+                color:#ffffff;
+                text-decoration:none;    
+                margin-left: 20px;
+                margin-right: 20px;
+            }
+
+            .containerheader{
+                text-align: right;
+padding-right: 200px;
+padding-top: 50px;
+padding-bottom: 100px;
+color: black;
+font-size: 100px;
+
+
+            }
+
+            
