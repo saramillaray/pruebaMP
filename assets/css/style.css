@@ -16,6 +16,7 @@ font-size: 30px;
 
         padding-top: 40px;
         padding-bottom: 40px;
+        color: white;
     }
 
     *{
@@ -37,7 +38,10 @@ align-items: center;
 background-color:linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
 }
 
+html{
 
+    scroll-behavior: smooth;
+}
 
            
 .textosheader{
@@ -64,7 +68,10 @@ background-color:linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
             }
 
                 
-                
+       p{
+
+font-size: 17px;
+       }
                 
                
             
