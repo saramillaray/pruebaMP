@@ -1,0 +1,119 @@
+body{
+
+    text-align:center;
+    color: #000f08;
+    margin:0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.oscuro{
+
+    color:#ffffff;
+    background:#000f08;
+}
+
+.oscuro a{
+
+color:#ffffff;
+text-decoration:none;
+}
+.sweet-brown{
+    background:#a4452c;
+    text-align:left;
+    color:#ffffff;
+    padding: 50px;
+  
+}
+.encabezado{
+    text-align:right;
+    background-image: url('../img/bg-hero.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:#ffffff;
+    text-shadow: 0.125em 0.25em 0.125em #707070;
+padding: 50px 200px;
+
+
+
+}
+body *{
+
+    margin:0;
+    border:0;
+    padding:0;
+}
+
+section, footer{
+    margin-top:75px
+}
+
+footer{
+    padding: 50px;
+}
+
+.charla-speaker, .charlas-parrafo, .evento {
+
+    display:inline-block;
+}
+.centrado {
+    width: 75%;
+    margin: 0 auto;
+  }
+
+.charla-speaker{
+
+    width: 25%;
+    vertical-align: middle;
+}
+.charlas-parrafo{
+    width: 72,5%;
+    vertical-align: middle;
+    margin-left: 2,5%;
+}
+
+h1{
+    font-weight: 800;
+}
+h2{
+    font-weight: 700;
+}
+
+.subtitulo,h4,h5{
+font-weight: 400;
+}
+
+nav{ 
+text-align: left;
+padding: 20px 10px;
+
+
+    
+}
+
+nav ul{
+    list-style-type: none;
+}
+
+.icono{
+
+    width: 32px;
+    fill: #ffffff;
+ }
+
+ ul li{
+
+    display:inline-block;
+    padding: 20px;
+    vertical-align: middle;
+ } 
+ footer i{
+     margin: 12px;
+ }
+
+ 
+    
+.titulopagina2{
+    font-weight: 800;
+
+
+}
